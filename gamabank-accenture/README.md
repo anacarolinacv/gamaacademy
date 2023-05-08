@@ -1,7 +1,5 @@
 <h1 align="center">🏦 NoDesign Api</h1>
 
-## Dispensamos o Design, porque focamos na melhor solução para sua aplicação bancária.
-
 <br>
 <p align="center">
   <img width=500 heigth:500 src="https://miro.medium.com/max/700/1*_JJTknJYPxJPLNEEB3jh7Q.gif" alt="Hulk Smart"/>
